@@ -7,5 +7,7 @@
 - ⚡ Fun fact: i love to draw :art:
 
 ## how to connect me : 
+mail : yousefzinsazk78@gmail.com
+linkedin : www.linkedin.com/in/yousefzinsazk78
 
 <!-- - 🤔 I’m looking for help with ... -->
