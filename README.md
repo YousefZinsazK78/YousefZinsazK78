@@ -1,13 +1,13 @@
-# Hi there , i'm yousef - aka [@yousefzinsazk78](https://github.com/YousefZinsazK78/)👋
+# Hi there , i'm Yousef - aka [@yousefzinsazk78](https://github.com/YousefZinsazK78/)👋
 
-- 🔭 I’m currently working on flutter/dart mini project!
-- 🌱 I’m currently learning flutter/dart and golang
+- 🔭 I’m currently working on golang project!
+- 🌱 I’m currently learning  golang and flutter/dart
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about flutter or dart maybe i can answer :laughing:
-- ⚡ Fun fact: i love to draw :art:
+- 💬 Ask me about golang or flutter to answer you :laughing:
+- ⚡ Fun fact: i love to learn more subjects.
 
-## how to connect me : 
-mail : yousefzinsazk78@gmail.com
+## how to reach me : 
+mail : yousefzinsazk78@gmail.com\n
 linkedin : www.linkedin.com/in/yousefzinsazk78
 
 <!-- - 🤔 I’m looking for help with ... -->
