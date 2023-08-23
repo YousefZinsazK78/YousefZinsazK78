@@ -6,5 +6,4 @@
 - ⚡ Fun fact: i love to learn more subjects.
 
 ## how to reach me : 
-mail : yousefzinsazk78@gmail.com\n
-linkedin : www.linkedin.com/in/yousefzinsazk78
+mail : yousefzinsazk78@gmail.com
