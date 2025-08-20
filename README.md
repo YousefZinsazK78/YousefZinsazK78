@@ -1,11 +1,59 @@
-# Hi there
+# 👋 Hi, I'm Yousef Zinsaz Kashani
 
-currently i am soldier in army military ....
-my main purpose is to learn lpic 1 ,2 and continue to learn about golang or js to work in backend position and then learn cpp/c for work in blockchain project or other projects that help me to increase my skills to programming and developing in software world ...
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
 
-my resume link :
+💻 **Android Developer | Flutter | Linux Enthusiast**
 
+I’m an Android Developer with over **2 years of experience** building mobile applications.  
+My journey started with **Flutter**, where I delivered **2 real-world projects**, and I’m now focusing on **Native Android Development** with **Kotlin** and **Java**.  
 
-## this is my mail
-mail : yousefzinsazk78@gmail.com
-telegram : @YousefZK
+⚡ I also have a strong background in **Linux system administration**.  
+I hold an **LPIC-1 certification** and have knowledge of LPIC-2 concepts, giving me a solid foundation in system-level tools and environments.  
+
+📌 I use **Git** daily for version control and collaboration, and I’m always eager to learn new technologies, improve my skills, and contribute to impactful projects.  
+
+---
+
+## 🚀 What I’m Currently Working On
+- 📱 Advancing my skills in **Android Native Development**  
+- 🎨 Building apps with a focus on **performance, usability, and design**  
+- 🐧 Expanding knowledge in **Linux & DevOps**  
+
+---
+
+## 🛠️ Skills & Tools  
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+
+### 🐧 System & DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&border_radius=10)  
+
+---
+
+## 🌱 Goals  
+✨ Grow into a highly skilled **Android Developer**  
+✨ Combine **Linux & DevOps knowledge** to create scalable mobile apps  
+✨ Contribute more to **open-source projects**  
+
+---
+
+📫 **Let’s connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
