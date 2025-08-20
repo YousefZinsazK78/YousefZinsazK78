@@ -1,14 +1,12 @@
 # 👋 Hi, I'm Yousef Zinsaz Kashani
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat)
-
 💻 **Android Developer | Flutter | Linux Enthusiast**
 
 I’m an Android Developer with over **2 years of experience** building mobile applications.  
 My journey started with **Flutter**, where I delivered **2 real-world projects**, and I’m now focusing on **Native Android Development** with **Kotlin** and **Java**.  
 
 ⚡ I also have a strong background in **Linux system administration**.  
-I hold an **LPIC-1 certification** and have knowledge of LPIC-2 concepts, giving me a solid foundation in system-level tools and environments.  
+I hold an **LPIC-1** and have knowledge of LPIC-2 concepts, giving me a solid foundation in system-level tools and environments.  
 
 📌 I use **Git** daily for version control and collaboration, and I’m always eager to learn new technologies, improve my skills, and contribute to impactful projects.  
 
@@ -17,7 +15,7 @@ I hold an **LPIC-1 certification** and have knowledge of LPIC-2 concepts, giving
 ## 🚀 What I’m Currently Working On
 - 📱 Advancing my skills in **Android Native Development**  
 - 🎨 Building apps with a focus on **performance, usability, and design**  
-- 🐧 Expanding knowledge in **Linux & DevOps**  
+- 🐧 Expanding knowledge in **Linux**  
 
 ---
 
@@ -29,27 +27,17 @@ I hold an **LPIC-1 certification** and have knowledge of LPIC-2 concepts, giving
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
 
-### 🐧 System & DevOps
+### 🐧 System
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+![Debian](https://img.shields.io/badge/debian-FCC623?logo=debian&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&border_radius=10)  
-
----
-
 ## 🌱 Goals  
 ✨ Grow into a highly skilled **Android Developer**  
-✨ Combine **Linux & DevOps knowledge** to create scalable mobile apps  
+✨ Combine **Linux & Andriod knowledge** to create scalable mobile apps  
 ✨ Contribute more to **open-source projects**  
 
 ---
